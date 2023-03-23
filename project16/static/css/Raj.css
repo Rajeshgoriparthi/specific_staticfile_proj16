@@ -1,0 +1,87 @@
+h1{
+    padding: 30px 35%;
+    color: rgb(251, 250, 252);
+}
+h2{
+    padding: 13px 27% ;
+    background: linear-gradient(rgb(116, 116, 243),rgb(137, 241, 137));
+    color:rgb(12, 12, 12);
+}
+.flag{
+    width: 17%;
+    clip-path: circle();
+    margin-left: 65%;
+    margin-top: -7.8%;
+    position: absolute;
+}
+.star{
+    width: 11.5%;
+    clip-path: circle();
+    margin-left: 82%;
+    margin-top: -7.8%;
+    position: absolute;
+    
+
+}
+.virat{
+    width: 30%;
+    clip-path: circle();
+    margin-top: 5%;
+    margin-left: 9%;
+    position: absolute;
+}
+.rohit{
+    width: 30%;
+    clip-path: circle();
+    margin-top: 5%;
+    margin-left: 38%;
+    position: absolute;
+}
+.rahul{
+    width: 20%;
+    clip-path: circle();
+    margin-top: 5%;
+    margin-left:70%;
+    position: absolute;
+}
+body{
+    background: linear-gradient(rgb(249, 78, 78),rgb(233, 233, 98));
+    width: 100vw;
+    height:fit-content;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.anchor{
+    font-size: 23px;
+    padding-top: 23%;
+}
+a{
+    text-decoration: none;
+    padding-left: 23%;
+    margin-left:0;
+}
+a:visited{color:blue;}
+a:hover{color:white;}
+a:active{color:rgb(251, 71, 71);}
+.sky{
+    width: 16.5vw;
+    clip-path: circle();
+    margin-top: 2%;
+    position: absolute;
+    margin-left: 30%;
+}
+.pandya{
+    width: 22vw;
+    clip-path: circle();
+    margin-top: 2%;
+    position: absolute;
+    margin-left: 55%;
+}
+.anchor1{
+    margin-top: 20%;
+    margin-left: 16%;
+    font-size: 20px;
+}
